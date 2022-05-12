@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "body": "While the film has been mostly applauded, that for me was where the good stuff ended. First of all, it is interminable. 2 hours and 56 minutes!!!! I mean.that is not necessary.",
+      "title": "The Batman",
+      "author": "Carey-Ann Pawsey",
+      "id": 1
+    },
+    {
+      "body": "Yes, its more end-of-the-world bilge from Roland Emmerich.",
+      "title": "Moonfall",
+      "author": "Matt Brunson",
+      "id": 2
+    },
+    {
+      "body": "The blandest action-adventure movie seen in some time. If only we could press the “reset” button.",
+      "title": "Uncharted",
+      "author": "Matthew Pejkovic",
+      "id": 3
+    }
+  ]
+}
