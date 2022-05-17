@@ -10,7 +10,6 @@ function App() {
   const [movies, setMovies] = useState([]) 
   const [searchBar, setSearchBar] = useState('')
   
-  
   const getMovies = async (searchBar) => {
     const url = `http://www.omdbapi.com/?S=${searchBar}&apikey=a2784c5b`
    
